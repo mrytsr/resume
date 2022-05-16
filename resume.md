@@ -58,7 +58,7 @@ Serve more than 10 deparment of bilibili, carry 2000000 tasks per day.
 Shanghai Tongrui Communication Tech Co., Ltd
 Jul 2015 - Jul 2016 (1 year 1 month)
 1. "Guess You Like" Reco System: implement recomend system of audio library with collaborate filter and content filter algorithm.
-Related Techs： Python, Redis.
+- Related Techs： Python, Redis.
 2. Audio Open Platform: build audio open platform to provide listing ability to third party APPs, make docs.
 - Related techs：MongoDB, Python, Pyramid, slice programming
 - Honor："excellent employee".
