@@ -52,8 +52,7 @@ Serve more than 10 deparment of bilibili, carry 2000000 tasks per day.
 
 2. UGC upload acceleration: lead team to reconstruce transport protocol, client SDK and service, contact with dynamic acceleration CDN providors, invent relay upload method. Make uploading success ratio 20% better and speed 400% faster.
 - Related techs: Dynamic CDN, data analysis, data modeling.
-
-Honor: first "excellent employee".
+- Honor: first "excellent employee".
 
 ### Backent Architect
 Shanghai Tongrui Communication Tech Co., Ltd
