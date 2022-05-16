@@ -30,17 +30,17 @@ Jul 2019 - Present (2 years 11 months +)
 - Related techs: Data mining, product design.
 
 4. Traffic Free Solution: reconstruce client SDK, api service, solved the hard problem that bilibili only support CUCC TF.
-Related techs: Android, iOS, System analyse.
+- Related techs: Android, iOS, System analyse.
 
 ### Senior Development Engineer
 bilibili Group
 Jul 2017 - Jun 2019 (2 years)
 1. VOD CDN System: invent "CDN origin system base on mirror origin tech", solve the problem of origin in multi CDNs sense.
 Communicate with AliYun, TecentCloud, Qiniu, Ksyun CDN providors, this system carried 70% of bilibili's bandwith.
-Related techs：CDN origin, dispatch.
+- Related techs：CDN origin, dispatch.
 
 2. Anti-stealing-link rules engine: invent anti-steale-link rules engine that solved the hard problem of rule dispatch. Efficent increased greatly.
-Related techs：Lua, Anti-stealing-link.
+- Related techs：Lua, Anti-stealing-link.
 
 ### Development Engineer
 bilibili Group
@@ -48,10 +48,10 @@ Jul 2016 - Jun 2017 (1 year)
 
 1. Bvcflow：invent archive process system, abstract workflow archectrue from complex business systems, modules clear, less development. Work stably online for 5 years.
 Serve more than 10 deparment of bilibili, carry 2000000 tasks per day.
-Related techs：OpenResty, MongoDB, Workflow
+- Related techs：OpenResty, MongoDB, Workflow
 
 2. UGC upload acceleration: lead team to reconstruce transport protocol, client SDK and service, contact with dynamic acceleration CDN providors, invent relay upload method. Make uploading success ratio 20% better and speed 400% faster.
-Related techs: Dynamic CDN, data analysis, data modeling.
+- Related techs: Dynamic CDN, data analysis, data modeling.
 
 Honor: first "excellent employee".
 
@@ -61,18 +61,18 @@ Jul 2015 - Jul 2016 (1 year 1 month)
 1. "Guess You Like" Reco System: implement recomend system of audio library with collaborate filter and content filter algorithm.
 Related Techs： Python, Redis.
 2. Audio Open Platform: build audio open platform to provide listing ability to third party APPs, make docs.
-Related techs：MongoDB, Python, Pyramid, slice programming
-Honor："excellent employee".
+- Related techs：MongoDB, Python, Pyramid, slice programming
+- Honor："excellent employee".
 
 ### Backent Development Engineer
 Shanghai Kuyu Communication Tech Co., Ltd
 Jul 2013 - Jul 2015 (2 years 1 month)
 1. Web Crawler: Crawl APP info from 6 Android APP market. Build category data library for phone launcher and accelerate 10 times with bloom filter.
-Related techs: Scrapy, MongoDB, Java.
+- Related techs: Scrapy, MongoDB, Java.
 
 2. Data mining, collect: implement cell location, carrier data fetch with data process methods.
-Related techs: storage procedure, Linux, Shell
-Honor: excellent employee
+- Related techs: storage procedure, Linux, Shell
+- Honor: excellent employee
 
 ## Education
 - ZAFU
