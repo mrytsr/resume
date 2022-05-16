@@ -1,9 +1,8 @@
 # Json Tang' Resume
 
 ## Brief
-Yangpu District, Shanghai, China
-mrytsr@qq.com 18501760197
-linkedin.com/in/%E5%94%90-%E5%90%9B%E8%A1%8C-9b476791
+- Yangpu District, Shanghai, China
+- mrytsr@qq.com 18501760197
 
 ## Summary
 
@@ -83,4 +82,9 @@ Bachelor, Electronics and Information Engineering
 2. SOC class 100 score.
 
 Skills
-Business Architecture   •   Agile methodology   •   Business communication   •   Data mining   •   Cloud Computing   •   System Architecture
+- Business Architecture
+- Agile methodology
+- Business communication
+- Data mining
+- Cloud Computing
+- System Architecture
