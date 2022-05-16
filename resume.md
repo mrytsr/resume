@@ -81,7 +81,7 @@ Honor: excellent employee
 1. Invent "no judger chess", win school level creative medal.
 2. SOC class 100 score.
 
-Skills
+## Skills
 - Business Architecture
 - Agile methodology
 - Business communication
