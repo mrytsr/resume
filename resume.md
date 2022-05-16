@@ -11,8 +11,8 @@ I'm good at business analysis, data driven development and agile methodology.
 I'm LiveVideoStackCon and Qcon lecturer. Ammount of my applied patent rand first in bilibili.
 
 Two open source projects
-- Vim-vide：https://github.com/bilibili/vim-vide(700+Star, fast vim config)
-- Oresty: https://github.com/bilibili/oresty(App architecture base on OpenResty)
+- Vim-vide：https://github.com/bilibili/vim-vide (700+Star, fast vim config)
+- Oresty: https://github.com/bilibili/oresty (App architecture base on OpenResty)
 
 Prefered city: Shanghai, Shenzhen
 
