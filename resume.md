@@ -21,13 +21,13 @@ Prefered city: Shanghai, Shenzhen
 bilibili Group
 Jul 2019 - Present (2 years 11 months +)
 1. UpOS Object Storage System: it's a DIY object storage system base on OpenResty, support FOP, origin of third party CDNs.
-Related techs: FOP, OS, OpenResty, CDN
+- Related techs: FOP, OS, OpenResty, CDN
 
 2. Architecture of BVC: build a VOD solution by connect transcode, storage, upload, download systems. Support businesses: UGC, PGC, ME, DSP, Audio, Manga.
-Related techs: VOD, VC, business communication.
+- Related techs: VOD, VC, business communication.
 
 3. PBP(Progress Bar Plus): Lead a team to complete a system which can figure out the hot spot of a video. Win the Most Popular Participator.
-Related techs: Data mining, product design.
+- Related techs: Data mining, product design.
 
 4. Traffic Free Solution: reconstruce client SDK, api service, solved the hard problem that bilibili only support CUCC TF.
 Related techs: Android, iOS, System analyse.
