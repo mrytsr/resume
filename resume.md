@@ -75,9 +75,9 @@ Related techs: storage procedure, Linux, Shell
 Honor: excellent employee
 
 ## Education
-ZAFU
-Bachelor, Electronics and Information Engineering
-2007 - 2011
+- ZAFU
+- Bachelor, Electronics and Information Engineering
+- 2007 - 2011
 1. Invent "no judger chess", win school level creative medal.
 2. SOC class 100 score.
 
